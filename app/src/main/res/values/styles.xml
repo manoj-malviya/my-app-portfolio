@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="AppButtons">
+        <item name="android:background">#F08C35</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">231dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">0.04</item>
+    </style>
+    <style name="AppButtons2">
+        <item name="android:background">#cc0033</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">231dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">0.04</item>
+    </style>
+
+</resources>
